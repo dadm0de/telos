@@ -12,5 +12,5 @@ This repo builds on that with AI-assisted tools.
 ## Files
 
 - **Blank Template**: Empty Markdown template for your TELOS file, created by Daniel Miessler. Fill it manually with your details.
-- **Telos File Build Prompt**: LLM prompt to generate your personalized TELOS file, based on NetworkChuck's rapid-build prompt. Paste into your favorite AI (e.g., Grok) and respond to queries.
+- **TELOS File Build Prompt**: LLM prompt to generate your personalized TELOS file, based on NetworkChuck's rapid-build prompt. Paste into your favorite AI (e.g., Grok) and respond to queries.
 - **TELOS Prompts for AI**: Prompts adapted from Daniel Miessler's [Fabric patterns](https://github.com/danielmiessler/fabric) to analyze and gain insights from your completed TELOS file.
